@@ -1,7 +1,7 @@
 es
-  ips:http://localhost:9200/	
-biz: IM_GROUP
+  ips:http://localhost:9200/
 biz
+  type: IM_GROUP
   key: 1	
 logging
   level
