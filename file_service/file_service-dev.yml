@@ -1,6 +1,3 @@
-VERSION_CURRENT: {:v1\\.0}
-VERSION_PREV: {:v1\\.0}
-
 es
   ips:http://localhost:9200/
 	
