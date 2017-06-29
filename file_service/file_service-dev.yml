@@ -1,5 +1,5 @@
 es
-  ips:http://localhost:9200/
+  ips: http://localhost:9200/
 biz
   type: IM_GROUP
   key: 1	
