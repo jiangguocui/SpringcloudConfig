@@ -2,12 +2,10 @@ es:
   ips: http://localhost:9200/
 biz:
   type: IM_GROUP
-  key: 1
-log4j:
-  level: info  
+  key: 1  
 logging:
   level:
-    ROOT: info
+    asyncRoot: info
   config: classpath:log4j2.xml
 druid:
   driverClassName: com.mysql.fabric.jdbc.FabricMySQLDriver
