@@ -2,7 +2,9 @@ es:
   ips: http://localhost:9200/
 biz:
   type: IM_GROUP
-  key: 1	
+  key: 1
+log4j:
+  level: info  
 logging:
   level: info
   config: classpath:log4j2.xml
