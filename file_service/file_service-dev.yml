@@ -4,9 +4,8 @@ biz:
   type: IM_GROUP
   key: 1	
 logging:
-  level:
-    ROOT: info
-    config: classpath:log4j2.xml
+  level: info
+  config: classpath:log4j2.xml
 druid:
   driverClassName: com.mysql.fabric.jdbc.FabricMySQLDriver
   initialSize: 5
