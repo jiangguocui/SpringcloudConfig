@@ -5,7 +5,7 @@ biz:
   key: 1  
 logging:
   level:
-    asyncRoot: info
+    ROOT: info
   config: classpath:log4j2.xml
 druid:
   driverClassName: com.mysql.fabric.jdbc.FabricMySQLDriver
